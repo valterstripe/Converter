@@ -1,4 +1,8 @@
-# Project exclude paths
-/out/
-/.idea\
+.idea
 *.iml
+.flattened-pom.xml
+target
+*.FDC
+*.log*
+output
+.vscode
